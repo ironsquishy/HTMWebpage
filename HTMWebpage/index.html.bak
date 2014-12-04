@@ -4,18 +4,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8" />
-    <meta name="description" content="" />
-    <meta name="keywords" content="test" />
-    <title>Cafecito</title>
-    <link href="http://fonts.googleapis.com/css?family=Jura" rel="stylesheet" type="text/css" />
-    <link href="http://fonts.googleapis.com/css?family=Ubuntu+Condensed" rel="stylesheet"
-
-      type="text/css" />
-    <link rel="stylesheet" type="text/css" href="style.css" />
+    <meta content="" name="description" />
+    <meta content="test" name="keywords" />
+    <title>Ironsquid</title>
+    <link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Jura" />
+    <link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Ubuntu+Condensed" />
+    <link href="style.css" type="text/css" rel="stylesheet" />
   </head>
   <body>
     <div id="header">
-      <div style="top: -46px; left: 693px;" id="logo">
+      <div id="logo" style="top: -46px; left: 693px;">
         <h1><span style="color: red;">IronSquid<br />
           </span></h1>
         <p><br />
@@ -23,9 +21,9 @@
       </div>
       <div id="nav">
         <ul>
-          <li class="first"> <a style="font-weight: bold;" href="#">Services</a>
+          <li class="first"> <a href="#" style="font-weight: bold;">Services</a>
           </li>
-          <li> <a style="font-weight: bold;" href="#">Portfolio</a> </li>
+          <li> <a href="#" style="font-weight: bold;">Portfolio</a> </li>
           <li> <span style="font-weight: bold;"><a href="#">Blog</a> </span></li>
           <span style="font-weight: bold;"> </span>
           <li> <span style="font-weight: bold;"><a href="#">About</a></span> </li>
@@ -49,10 +47,10 @@
               <h2>Feed The Beast Inside</h2>
               <h3><br />
               </h3>
-              <img width="250" height="225" class="left" src="images/fish&amp;chips.jpg"
-
-                alt="" />
-              <p>  <br class="clear" />
+              <img width="250" height="225" alt="" src="images/fish&amp;chips.jpg"
+                class="left" />
+              <p><img width="250" height="225" alt="burger" src="images/titleburger.jpg"
+                  class="left" /> <br class="clear" />
               </p>
             </div>
           </div>
@@ -62,14 +60,13 @@
         <div id="footerContent">
           <h3>Still Hungry?</h3>
           <div class="form">
-            <form action="#" method="post" id="contactform"></form>
-            <p><input type="text" name="name" id="name" value="Your Name" class="inputBox" /></p>
-            <p><input type="email" name="email" id="email" value="someone@domain.tld"
-
-                class="inputBox" /></p>
-            <p><textarea rows="4" cols="50" class="inputTextArea">Enter your
+            <form id="contactform" method="post" action="#"></form>
+            <p><input type="text" class="inputBox" value="Your Name" id="name" name="name" /></p>
+            <p><input type="email" class="inputBox" value="someone@domain.tld" id="email"
+                name="email" /></p>
+            <p><textarea class="inputTextArea" cols="50" rows="4">Enter your
                 message here.</textarea></p>
-            <p><input type="button" name="submit" value="Send Message" class="inputButton" /></p>
+            <p><input type="button" class="inputButton" value="Send Message" name="submit" /></p>
           </div>
         </div>
         <div id="footerSidebar">
@@ -77,9 +74,8 @@
           <ul class="contactinfo">
             <li>777-777-7777</li>
             <li> <a href="aspace@mail.sfsu.edu">aspace@mail.sfsu.edu</a> </li>
-            <li>1234 Street Name <br />
-              City Name, ST 012345 <br />
-              Country Name <br />
+            <li>1600 Holloway Ave. </li>
+            <li>San Francisco, CA 94132<br />
             </li>
           </ul>
         </div>
