@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+	Cafecito by FWT	www.freewebsitetemplat.es 	Images by Image Base http://imagebase.davidniblack.com/	Released under the Creative Commons Attribution 3.0 License.-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8" />
+    <meta content="" name="description" />
+    <meta content="test" name="keywords" />
+    <title>Ironsquid</title>
+    <link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Jura" />
+    <link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Ubuntu+Condensed" />
+    <link href="style.css" type="text/css" rel="stylesheet" />
+  </head>
+  <body>
+    <div id="header">
+      <div id="logo" style="top: -46px; left: 693px;">
+        <h1><span style="color: red;">IronSquid<br />
+          </span></h1>
+        <p><br />
+        </p>
+      </div>
+      <div id="nav">
+        <ul>
+          <li class="first"> <a href="#" style="font-weight: bold;">Services</a>
+          </li>
+          <li> <a href="#" style="font-weight: bold;">Portfolio</a> </li>
+          <li> <span style="font-weight: bold;"><a href="#">Blog</a> </span></li>
+          <span style="font-weight: bold;"> </span>
+          <li> <span style="font-weight: bold;"><a href="#">About</a></span> </li>
+          <span style="font-weight: bold;"> </span>
+          <li> <span style="font-weight: bold;"><a href="#">Downloads</a></span>
+          </li>
+          <span style="font-weight: bold;"> </span>
+          <li> <span style="font-weight: bold;"><a href="#">Links</a></span> </li>
+          <span style="font-weight: bold;"> </span>
+          <li class="last"><span style="font-weight: bold;"> <a href="#">Contact</a></span>
+          </li>
+        </ul>
+        <br class="clear" />
+      </div>
+    </div>
+    <div id="outer">
+      <div id="main">
+        <div id="content">
+          <div id="box1">
+            <div class="form">
+              <h2>Feed The Beast Inside</h2>
+              <h3><br />
+              </h3>
+              <img width="250" height="225" alt="" src="images/fish&amp;chips.jpg"
+                class="left" />
+              <p><img width="250" height="225" alt="burger" src="images/titleburger.jpg"
+                  class="left" /> <br class="clear" />
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="footer">
+        <div id="footerContent">
+          <h3>Still Hungry?</h3>
+          <div class="form">
+            <form id="contactform" method="post" action="#"></form>
+            <p><input type="text" class="inputBox" value="Your Name" id="name" name="name" /></p>
+            <p><input type="email" class="inputBox" value="someone@domain.tld" id="email"
+                name="email" /></p>
+            <p><textarea class="inputTextArea" cols="50" rows="4">Enter your
+                message here.</textarea></p>
+            <p><input type="button" class="inputButton" value="Send Message" name="submit" /></p>
+          </div>
+        </div>
+        <div id="footerSidebar">
+          <h3>Curious? </h3>
+          <ul class="contactinfo">
+            <li>777-777-7777</li>
+            <li> <a href="aspace@mail.sfsu.edu">aspace@mail.sfsu.edu</a> </li>
+            <li>1600 Holloway Ave. </li>
+            <li>San Francisco, CA 94132<br />
+            </li>
+          </ul>
+        </div>
+        <br class="clear" />
+      </div>
+    </div>
+    <div id="copyright"> Cafecito by <a href="http://www.freewebtemplates.com">FWT</a>.
+      Images by <a href="http://imagebase.davidniblack.com/">Image Base</a>. </div>
+  </body>
+</html>
