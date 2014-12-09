@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+=======
+/*
+	Cafecito by FWT
+	www.freewebsitetemplat.es
+	Images by Image Base http://imagebase.davidniblack.com/
+	Released under the Creative Commons Attribution 3.0 License.
+*/
+>>>>>>> d398665ad84a6e8d26ab670a4d49006a06385727
 
 * {
 	margin: 0;
@@ -143,7 +152,11 @@ img {
 	font-size: 3.25em;
 	font-family: serif;
 	text-shadow: 2px 2px 3px #000;
+<<<<<<< HEAD
 	
+=======
+	/*text-transform: lowercase;*/
+>>>>>>> d398665ad84a6e8d26ab670a4d49006a06385727
 }
 
 #nav {
@@ -264,7 +277,11 @@ img {
 	padding: 30px;
 	width: 920px;
 	margin: 0 0 0 0;
+<<<<<<< HEAD
 	color: rgba(96,96,96,1);
+=======
+	color: #DAD2D3;
+>>>>>>> d398665ad84a6e8d26ab670a4d49006a06385727
 }
 
 #main .sectionList {
